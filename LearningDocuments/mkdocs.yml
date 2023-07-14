@@ -1,0 +1,7 @@
+site_name: Self Learning Portal
+theme: 
+   name: material
+nav:
+    - Home: index.md
+    - MkDocx: Mkdocs.md
+    - PIP: Pip.md
