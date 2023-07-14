@@ -6,3 +6,4 @@ nav:
     - MkDocs: Mkdocs.md
     - Pip: Pip.md
     - Git: Git.md
+    - Maven: Maven.md
