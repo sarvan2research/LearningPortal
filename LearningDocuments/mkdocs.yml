@@ -3,5 +3,6 @@ theme:
    name: material
 nav:
     - Home: index.md
-    - MkDocx: Mkdocs.md
-    - PIP: Pip.md
+    - MkDocs: Mkdocs.md
+    - Pip: Pip.md
+    - Git: Git.md
