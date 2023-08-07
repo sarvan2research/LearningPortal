@@ -16,7 +16,7 @@
 
 ## MD Cheat file
 (Reference)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
-(MKDocs reference))[https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/]
+(MKDocs reference)[https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/]
 # H1
 ## H2
 ### H3
